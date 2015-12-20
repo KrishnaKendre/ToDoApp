@@ -36,7 +36,9 @@
         <item url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.4/web.browser/preamble.js" />
         <item url="file://$USER_HOME$/.meteor/packages/callback-hook/1.0.4/web.browser/hook.js" />
         <item url="file://$USER_HOME$/.meteor/packages/check/1.1.0/web.browser/match.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/meteorflux_dispatcher/1.2.2/web.browser/lib/dispatcher.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.1/web.browser/sockjs-0.3.4.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/meteorflux_namespace/1.0.0/web.browser/meteorflux.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.1/web.browser/random_stream.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.1/web.browser/stream_client_common.js" />
         <item url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.1/web.browser/livedata_connection.js" />
@@ -153,7 +155,9 @@
       <root url="file://$USER_HOME$/.meteor/packages/blaze-tools/1.0.4/web.browser/preamble.js" />
       <root url="file://$USER_HOME$/.meteor/packages/callback-hook/1.0.4/web.browser/hook.js" />
       <root url="file://$USER_HOME$/.meteor/packages/check/1.1.0/web.browser/match.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/meteorflux_dispatcher/1.2.2/web.browser/lib/dispatcher.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.1/web.browser/sockjs-0.3.4.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/meteorflux_namespace/1.0.0/web.browser/meteorflux.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.1/web.browser/random_stream.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.1/web.browser/stream_client_common.js" />
       <root url="file://$USER_HOME$/.meteor/packages/ddp-client/1.2.1/web.browser/livedata_connection.js" />
